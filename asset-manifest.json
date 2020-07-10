@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/best/static/css/main.5f361e03.chunk.css",
-    "main.js": "/best/static/js/main.8f6bdb62.chunk.js",
-    "main.js.map": "/best/static/js/main.8f6bdb62.chunk.js.map",
+    "main.css": "/best/static/css/main.1f6e182d.chunk.css",
+    "main.js": "/best/static/js/main.a03b427e.chunk.js",
+    "main.js.map": "/best/static/js/main.a03b427e.chunk.js.map",
     "runtime-main.js": "/best/static/js/runtime-main.75abeff7.js",
     "runtime-main.js.map": "/best/static/js/runtime-main.75abeff7.js.map",
-    "static/js/2.8ac928c3.chunk.js": "/best/static/js/2.8ac928c3.chunk.js",
-    "static/js/2.8ac928c3.chunk.js.map": "/best/static/js/2.8ac928c3.chunk.js.map",
+    "static/js/2.4e16855d.chunk.js": "/best/static/js/2.4e16855d.chunk.js",
+    "static/js/2.4e16855d.chunk.js.map": "/best/static/js/2.4e16855d.chunk.js.map",
     "index.html": "/best/index.html",
-    "precache-manifest.1291a9d6b24f6fddd66e08099f110656.js": "/best/precache-manifest.1291a9d6b24f6fddd66e08099f110656.js",
+    "precache-manifest.76926376ba1035ba2736e021b1ff2c0c.js": "/best/precache-manifest.76926376ba1035ba2736e021b1ff2c0c.js",
     "service-worker.js": "/best/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/best/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8ac928c3.chunk.js.LICENSE.txt": "/best/static/js/2.8ac928c3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/best/static/media/logo.5d5d9eef.svg"
+    "static/css/main.1f6e182d.chunk.css.map": "/best/static/css/main.1f6e182d.chunk.css.map",
+    "static/js/2.4e16855d.chunk.js.LICENSE.txt": "/best/static/js/2.4e16855d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/best/static/media/mathline-webfont.2a2f04f3.woff",
+    "static/media/cloud.svg": "/best/static/media/cloud.03ab475c.svg",
+    "static/media/facebook.svg": "/best/static/media/facebook.d39c38e9.svg",
+    "static/media/iPhoneX_1.png": "/best/static/media/iPhoneX_1.04d1f6a2.png",
+    "static/media/iPhoneX_2.png": "/best/static/media/iPhoneX_2.751264d4.png",
+    "static/media/josh-howard.png": "/best/static/media/josh-howard.20f37b37.png",
+    "static/media/linkedin.svg": "/best/static/media/linkedin.b096b86f.svg",
+    "static/media/logo.svg": "/best/static/media/logo.56d2109a.svg",
+    "static/media/paint.svg": "/best/static/media/paint.39468b29.svg",
+    "static/media/pinterest.svg": "/best/static/media/pinterest.01f9ff62.svg",
+    "static/media/shield.svg": "/best/static/media/shield.cccb42e4.svg",
+    "static/media/twitter.svg": "/best/static/media/twitter.8ead26c8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.75abeff7.js",
-    "static/js/2.8ac928c3.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8f6bdb62.chunk.js"
+    "static/js/2.4e16855d.chunk.js",
+    "static/css/main.1f6e182d.chunk.css",
+    "static/js/main.a03b427e.chunk.js"
   ]
 }
